@@ -29,36 +29,37 @@ Catholic Date collects only the minimal data required to provide a functional an
 
 By creating an account or using Catholic Date, you agree to the following terms. If you do not agree, please discontinue use of the app.
 
-1. Eligibility
-    - You must be at least 16 years old to use Catholic Date
-    - By creating an account, you confirm that you meet this requirement.
+1. *Eligibility*
+- You must be at least 16 years old to use Catholic Date
+- By creating an account, you confirm that you meet this requirement.
 
-2. User Responsibilities
-You agree to use Catholic Date respectfully and lawfully. You must not:
-    - Post or share content that is offensive, harassing, threatening, or unlawful.
-    - Share sexually explicit material, hate speech, or content that violates the rights of others.
-    - Impersonate another person or provide false information.
-    - Use Catholic Date for commercial purposes, spam, or solicitation.
+2. *User Responsibilities*
+- You agree to use Catholic Date respectfully and lawfully. You must not:
+  - Post or share content that is offensive, harassing, threatening, or unlawful.
+  - Share sexually explicit material, hate speech, or content that violates the rights of others.
+  - Impersonate another person or provide false information.
+  - Use Catholic Date for commercial purposes, spam, or solicitation.
 
-3. Content You Share
-    - You retain ownership of the content you post (e.g., profile photos, descriptions, messages).
-    - By posting content, you grant Catholic Date a limited license to display that content within the app to provide its functionality.
-    - You are solely responsible for the content you share.
+3. *Content You Share*
+- You retain ownership of the content you post (e.g., profile photos, descriptions, messages).
+- By posting content, you grant Catholic Date a limited license to display that content within the app to provide its functionality.
+- You are solely responsible for the content you share.
 
-4. Reporting and Enforcement
-    - Catholic Date provides tools to report users who share inappropriate content or engage in harmful behavior.
-    - We may review and take action on reported accounts, including warnings, suspension, or permanent removal.
-    - Catholic Date is not responsible for the conduct of users, but we are committed to fostering a safe community.
-    - We reserve the right to suspend or terminate your account if you violate these Terms or engage in behavior harmful to others or to the service.
+4. *Reporting and Enforcement*
+- Catholic Date provides tools to report users who share inappropriate content or engage in harmful behavior.
+- We may review and take action on reported accounts, including warnings, suspension, or permanent removal.
+- Catholic Date is not responsible for the conduct of users, but we are committed to fostering a safe community.
+- We reserve the right to suspend or terminate your account if you violate these Terms or engage in behavior harmful to others or to the service.
 
-5. Limitation of Liability
-Catholic Date is provided “as is” without guarantees of availability or suitability for your purposes. We are not liable for:
+5. *Limitation of Liability*
+- Catholic Date is provided “as is” without guarantees of availability or suitability for your purposes. We are not liable for:
     - Damages resulting from interactions with other users.
     - Exposure to content you may find offensive.
     - Service interruptions, data loss, or unauthorized access.
 
-6. Subscriptions
-Catholic Date offers an optional premium monthly subscription that provide additional features. Subscriptions are billed through the App Store. Subscription payments are non-refundable through Catholic Date. Refunds, if any, must be requested from the App store. You are responsible for managing your subscription, including cancellation, through your device store settings.
+6. *Subscriptions*
+   
+- Catholic Date offers an optional premium monthly subscription that provide additional features. Subscriptions are billed through the App Store. Subscription payments are non-refundable through Catholic Date. Refunds, if any, must be requested from the App store. You are responsible for managing your subscription, including cancellation, through your device store settings.
 
 
 **Contact**
