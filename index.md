@@ -19,7 +19,7 @@ Catholic Date collects only the minimal data required to provide a functional an
 
 *Push Notifications*
 
--Catholic Date uses Apple Push Notification Service (APNs) and Firebase Cloud Messaging (FCM) to deliver notifications such as new messages or interaction alerts. You may opt out of push notifications at any time in your device settings.
+- Catholic Date uses Apple Push Notification Service (APNs) and Firebase Cloud Messaging (FCM) to deliver notifications such as new messages or interaction alerts. You may opt out of push notifications at any time in your device settings.
 
 *Data Security*
 
